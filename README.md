@@ -166,12 +166,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🗺 Roadmap
 
-- [ ] GUI interface for easier interaction
+- [ ] Initial release with basic functionality
 - [ ] Multiple AI provider support
-- [ ] Advanced task scheduling
-- [ ] Analytics and usage tracking
-- [ ] Docker containerization
-- [ ] API endpoint creation
 - [ ] Integration with popular IDEs
 
 ---
